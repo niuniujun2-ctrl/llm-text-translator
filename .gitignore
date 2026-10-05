@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行产物（不要提交）
+corpus.jsonl
+corpus_after.jsonl
+tasks.jsonl
+done.jsonl
+failed.jsonl
+*.log
+翻译对照表.txt
+issues_*.jsonl
+issues_summary_*.txt
+extract_stats.txt

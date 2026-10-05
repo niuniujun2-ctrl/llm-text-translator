@@ -1,0 +1,4 @@
+# 仅需 OpenCC（简繁转换/检测）。二选一：
+#   pip install opencc-python-reimplemented   ← 纯 Python，Windows 推荐（import opencc）
+#   pip install opencc                         ← C++ 绑定（需编译环境）
+opencc-python-reimplemented
